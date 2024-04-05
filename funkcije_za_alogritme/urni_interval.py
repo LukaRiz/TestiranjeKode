@@ -4,7 +4,7 @@ def odpri_datoteko(ime_datoteke):
     with open(ime_datoteke, 'r') as datoteka:
         return datoteka.readlines()
 
-
+#djijdi
 #zacetek funkcije za urni interval za računanje koliko narašča na uro posamezna reka
 def urni_interval(ime_datoteke):
     datoteka = odpri_datoteko(ime_datoteke)
