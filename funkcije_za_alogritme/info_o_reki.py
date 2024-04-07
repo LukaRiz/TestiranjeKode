@@ -16,5 +16,5 @@ def informacije_reka(ime_datoteke):
     except Exception as e:
         print("Napaka:", e)
 
-
 informacije_reka("/Users/lukarizman/PycharmProjects/TestiranjeKode/example7.csv")
+#koncano

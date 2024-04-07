@@ -28,3 +28,4 @@ def vecji_manjsi_enak(ime_datoteke):
 
 
 #print(vecji_manjsi_enak("example7.csv"))
+#koncano

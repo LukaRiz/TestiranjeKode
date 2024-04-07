@@ -27,3 +27,4 @@ def urni_interval(ime_datoteke):
     return skupno_ur
 
 print(urni_interval("/Users/lukarizman/PycharmProjects/TestiranjeKode/example7.csv"))
+#koncano

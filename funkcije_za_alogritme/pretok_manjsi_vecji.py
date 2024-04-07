@@ -24,3 +24,4 @@ def hitrost_pretok(ime_datoteke):
     return print(f"Trenuten pretok: {pretok}, {primerjava}")
 
 hitrost_pretok("/Users/lukarizman/PycharmProjects/TestiranjeKode/example7.csv")
+#koncano
